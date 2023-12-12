@@ -1,7 +1,8 @@
 # AI Deep Learning Image
 ## Grayscale
-### Used Item
+### Used Items
 - OPenCV
 - numpy
-- instance_norm/candy.t7
+- colorization_deploy_v2.prototxt
+- colorization_release_v2.caffemodel
 
